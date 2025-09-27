@@ -1,0 +1,15 @@
+C:\Users\garaa\source\repos\W3_code\Oop_1\bin\Debug\net8.0\Oop_1.exe
+C:\Users\garaa\source\repos\W3_code\Oop_1\bin\Debug\net8.0\Oop_1.deps.json
+C:\Users\garaa\source\repos\W3_code\Oop_1\bin\Debug\net8.0\Oop_1.runtimeconfig.json
+C:\Users\garaa\source\repos\W3_code\Oop_1\bin\Debug\net8.0\Oop_1.dll
+C:\Users\garaa\source\repos\W3_code\Oop_1\bin\Debug\net8.0\Oop_1.pdb
+C:\Users\garaa\source\repos\W3_code\Oop_1\obj\Debug\net8.0\Oop_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garaa\source\repos\W3_code\Oop_1\obj\Debug\net8.0\Oop_1.AssemblyInfoInputs.cache
+C:\Users\garaa\source\repos\W3_code\Oop_1\obj\Debug\net8.0\Oop_1.AssemblyInfo.cs
+C:\Users\garaa\source\repos\W3_code\Oop_1\obj\Debug\net8.0\Oop_1.csproj.CoreCompileInputs.cache
+C:\Users\garaa\source\repos\W3_code\Oop_1\obj\Debug\net8.0\Oop_1.sourcelink.json
+C:\Users\garaa\source\repos\W3_code\Oop_1\obj\Debug\net8.0\Oop_1.dll
+C:\Users\garaa\source\repos\W3_code\Oop_1\obj\Debug\net8.0\refint\Oop_1.dll
+C:\Users\garaa\source\repos\W3_code\Oop_1\obj\Debug\net8.0\Oop_1.pdb
+C:\Users\garaa\source\repos\W3_code\Oop_1\obj\Debug\net8.0\Oop_1.genruntimeconfig.cache
+C:\Users\garaa\source\repos\W3_code\Oop_1\obj\Debug\net8.0\ref\Oop_1.dll
